@@ -11,16 +11,16 @@ Here I analysed some of the activity in the repository in the last year.
 The week starting 2015-02-06 (6th Feb 2015).<br>
 
 2. Visualise the number of commits each week in the last year.<br>
-See d3-analysis.ipynb.<br>
+Find at https://github.com/BarboraDoslikova/d3-analysis/blob/master/d3-analysis.ipynb.<br>
 
 3. Are more commits into Mike's D3 repo done by him (the owner) or by others?<br>
 By Mike.<br>
 
 4. Visualise the commits by Mike versus others.<br>
-See d3-analysis.ipynb.<br>
+Find at https://github.com/BarboraDoslikova/d3-analysis/blob/master/d3-analysis.ipynb.<br>
 
 5. Over the last year, what day of the week had the most commits?<br>
 Saturday. But it was tight!<br>
 
 6. Visualise what day of the week had the most commits.<br>
-See d3-analysis.ipynb.<br>
+Find at https://github.com/BarboraDoslikova/d3-analysis/blob/master/d3-analysis.ipynb.
