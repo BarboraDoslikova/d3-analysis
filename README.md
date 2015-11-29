@@ -6,7 +6,7 @@
 D3.js is an amazing open-source JavaScript visualization library for HTML and SVG. https://d3js.org owned by Mike Bostock which you can find on GitHub at https://github.com/mbostock/d3.<br>
 Here I analysed some of the activity in the repository in the last year (Fri 28th Nov 2014 - Thu 26th Nov 2015).
 
-<h2>Questions asked & answers answered:</h2>
+<h2>Questions asked & answered:</h2>
 1. What week in the last year had the greatest number of commits?<br>
 The week starting 2015-02-06 (6th Feb 2015).<br>
 
