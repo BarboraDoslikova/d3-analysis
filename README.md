@@ -4,7 +4,7 @@
 
 <h2>Background:</h2>
 D3.js is an amazing open-source JavaScript visualization library for HTML and SVG. https://d3js.org owned by Mike Bostock which you can find on GitHub at https://github.com/mbostock/d3.<br>
-Here I analysed some of the activity in the repository in the last year.
+Here I analysed some of the activity in the repository in the last year (Fri 28th Nov 2014 - Thu 26th Nov 2015).
 
 <h2>Questions asked & answers answered:</h2>
 1. What week in the last year had the greatest number of commits?<br>
@@ -12,6 +12,7 @@ The week starting 2015-02-06 (6th Feb 2015).<br>
 
 2. Visualise the number of commits each week in the last year.<br>
 Find at https://github.com/BarboraDoslikova/d3-analysis/blob/master/d3-analysis.ipynb.<br>
+*ipynb displayed on GitHub won't show the interactive bokeh plot*<br>
 
 3. Are more commits into Mike's D3 repo done by him (the owner) or by others?<br>
 By Mike.<br>
